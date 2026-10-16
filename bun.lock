@@ -8,7 +8,7 @@
         "@heroicons/react": "^2.2.0",
         "@sudobility/components": "^5.3.32",
         "@sudobility/design": "^1.1.58",
-        "@sudobility/sudojo_lib": "^0.0.205",
+        "@sudobility/sudojo_lib": "^0.0.206",
         "@sudobility/sudojo_types": "^1.2.72",
         "@types/react": "^19.2.2",
         "@types/react-dom": "^19.2.2",
@@ -21,7 +21,7 @@
         "@heroicons/react": ">=2.0.0",
         "@sudobility/components": "^5.3.32",
         "@sudobility/design": "^1.1.58",
-        "@sudobility/sudojo_lib": "^0.0.205",
+        "@sudobility/sudojo_lib": "^0.0.206",
         "@sudobility/sudojo_types": "^1.2.72",
         "react": ">=18.0.0",
         "react-dom": ">=18.0.0",
@@ -119,7 +119,7 @@
 
     "@sudobility/sudojo_client": ["@sudobility/sudojo_client@0.0.112", "", { "peerDependencies": { "@sudobility/di": "^1.5.57", "@sudobility/sudojo_types": "^1.2.56", "@sudobility/types": "^1.9.62", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-1FvKWn7qyAcV7mTH/J8hvx7CbI4D2SMkdTQRA9u8LoLXLx2KKJaA6+XaaHZFQRnitLGRk10l4PKfYH2e8zFKwQ=="],
 
-    "@sudobility/sudojo_lib": ["@sudobility/sudojo_lib@0.0.205", "", { "peerDependencies": { "@sudobility/di": "^1.5.68", "@sudobility/sudojo_client": "^0.0.162", "@sudobility/sudojo_types": "^1.2.72", "@sudobility/types": "^1.9.68", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-9vHMvAeSG6NMgvSczbfl9Jfc9avermUqtXWj9NPp3EXaLZpDYG6tYLlj/x4hUhNi5WbW4KTyQ9SLUBBeReRzzg=="],
+    "@sudobility/sudojo_lib": ["@sudobility/sudojo_lib@0.0.206", "", { "peerDependencies": { "@sudobility/di": "^1.5.69", "@sudobility/sudojo_client": "^0.0.163", "@sudobility/sudojo_types": "^1.2.72", "@sudobility/types": "^1.9.68", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-+ptmY7bj7tkM5P5++5bRflwH7pC6zIoBUAugZWZr4QmWgHHgneWKnnIg9kOjnP9IjpmLEV6wq4T0zmpWXNyZyw=="],
 
     "@sudobility/sudojo_types": ["@sudobility/sudojo_types@1.2.72", "", { "peerDependencies": { "@sudobility/types": "^1.9.68" } }, "sha512-boM+7R/nTuK2c1//hgpv5Pnqfs5hrJ1vz/C45mkcHN4XXGmOiKT0YP22mvxxsUbQ/Lxr39HXQo4su3qDgeppXg=="],
 

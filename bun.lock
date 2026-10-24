@@ -6,10 +6,10 @@
       "name": "@sudobility/sudojo_ui",
       "devDependencies": {
         "@heroicons/react": "~2.2.0",
-        "@sudobility/components": "^5.3.41",
+        "@sudobility/components": "^5.3.43",
         "@sudobility/design": "^1.1.66",
-        "@sudobility/sudojo_lib": "^0.0.213",
-        "@sudobility/sudojo_types": "^1.2.78",
+        "@sudobility/sudojo_lib": "^0.0.214",
+        "@sudobility/sudojo_types": "^1.2.79",
         "@types/react": "~19.3.0",
         "@types/react-dom": "~19.3.0",
         "class-variance-authority": "~0.7.1",
@@ -19,10 +19,10 @@
       },
       "peerDependencies": {
         "@heroicons/react": ">=2.0.0",
-        "@sudobility/components": "^5.3.41",
+        "@sudobility/components": "^5.3.43",
         "@sudobility/design": "^1.1.66",
-        "@sudobility/sudojo_lib": "^0.0.213",
-        "@sudobility/sudojo_types": "^1.2.78",
+        "@sudobility/sudojo_lib": "^0.0.214",
+        "@sudobility/sudojo_types": "^1.2.79",
         "react": ">=18.0.0",
         "react-dom": ">=18.0.0",
       },
@@ -45,7 +45,7 @@
 
     "@babel/helper-module-transforms": ["@babel/helper-module-transforms@7.29.7", "", { "dependencies": { "@babel/helper-module-imports": "^7.29.7", "@babel/helper-validator-identifier": "^7.29.7", "@babel/traverse": "^7.29.7" }, "peerDependencies": { "@babel/core": "^7.0.0" } }, "sha512-UPUVSyXbOh627KiCIGQSgwWzGeBKLkaJ9PJEdrngIwMSzxLR4jS4+f1f1jb7VzBbg8nFLaYotvVPFCTqdrmTAg=="],
 
-    "@babel/helper-string-parser": ["@babel/helper-string-parser@7.29.7", "", {}, "sha512-Pb5ijPrZ89GDH8223L4UP8i6QApWxs04RbPQJTeWDV0/keR2E36MeKnyr6LYmUUvqRRI+Iv87SuF1W6ErINzYw=="],
+    "@babel/helper-string-parser": ["@babel/helper-string-parser@7.29.11", "", {}, "sha512-snZbO7MEDOof+hvNa97EjEY7qD7h2kwvQr5AJC3ZhQudKW5dnej6k3kP9NQV88hJwaS8vDqRLFo9rivLEhle2g=="],
 
     "@babel/helper-validator-identifier": ["@babel/helper-validator-identifier@7.29.7", "", {}, "sha512-qehxGkRj55h/ff8EMaJ+cYhyaKlHIxqYDn682wQD7RNp9UujOQsHog2uS0r2vzr4pW+sXf90NeeayjcNaX3fFg=="],
 
@@ -53,7 +53,7 @@
 
     "@babel/helpers": ["@babel/helpers@7.29.10", "", { "dependencies": { "@babel/template": "^7.29.7", "@babel/types": "^7.29.8" } }, "sha512-EMCx3AGZ3WfAl6ht7AyQoPm2Lh+BGYEMdc4Q6Hf7uSCDOZFuLq44qNwL+iaim8VlyYhRAo4X43+weadK8ZB4Yg=="],
 
-    "@babel/parser": ["@babel/parser@7.29.9", "", { "dependencies": { "@babel/types": "^7.29.8" }, "bin": "./bin/babel-parser.js" }, "sha512-CjXrNHTnvqBVqHgdBysY3vk2T8tpJHb5/RMeHJBTyVa9xgugCB0CJTx/3oO8RV2QRQP391RWpB7D6hLjm8V9uA=="],
+    "@babel/parser": ["@babel/parser@7.29.11", "", { "dependencies": { "@babel/types": "^7.29.11" }, "bin": "./bin/babel-parser.js" }, "sha512-OZ6+oaK7GMyg3IfCpj8JOmn8n+w2rJbDT0LLfVDTLb1ZFeKDh3AiNELgCMUw175IJHSkLl74hG0M0VLsvx+gag=="],
 
     "@babel/runtime": ["@babel/runtime@7.29.10", "", {}, "sha512-NpugTzbKgGrNe45Ui32cN8vCFFMxVtP/9rtfwv0nP5FRDAjvYBxJcLVpYA9mr1jxP6cnIT7x9LUzuDTbWYYNRA=="],
 
@@ -61,7 +61,7 @@
 
     "@babel/traverse": ["@babel/traverse@7.29.10", "", { "dependencies": { "@babel/code-frame": "^7.29.7", "@babel/generator": "^7.29.8", "@babel/helper-globals": "^7.29.7", "@babel/parser": "^7.29.9", "@babel/template": "^7.29.7", "@babel/types": "^7.29.8", "debug": "^4.3.1" } }, "sha512-B3lYAs2nkKskbgQ1nfy8Ma9ao9Q1rntTAQHrzzyDuj+TSO+X3le6PfWwqDvodsb+OumE10eMFfuMCTQSQ5iuIQ=="],
 
-    "@babel/types": ["@babel/types@7.29.8", "", { "dependencies": { "@babel/helper-string-parser": "^7.29.7", "@babel/helper-validator-identifier": "^7.29.7" } }, "sha512-Vj1jF3cPfxg7OAfoI7QnVKLoILlm2JF9pnVHrX8qx7AHMiYWT+NDAA7jChlNgRS4WTLc/fD1lXLmPixluj+3Gg=="],
+    "@babel/types": ["@babel/types@7.29.11", "", { "dependencies": { "@babel/helper-string-parser": "^7.29.11", "@babel/helper-validator-identifier": "^7.29.7" } }, "sha512-WCsemW40Cpc6gouC1SrY6PBaZ+oLRlEVY9XBvZBI7il/HyUrb2nJ505wE1MHEFyDZNnrWDEuy4jL50WVHfTTSQ=="],
 
     "@firebase/ai": ["@firebase/ai@3.0.0", "", { "dependencies": { "@firebase/app-check-interop-types": "0.3.5", "@firebase/component": "0.7.5", "@firebase/logger": "0.5.2", "@firebase/util": "1.15.3", "tslib": "^2.1.0" }, "peerDependencies": { "@firebase/app": "0.x", "@firebase/app-types": "0.x" } }, "sha512-66jJAi6JUmyXna89xaDONmfvupO1wNc3f2BegPwUImagbbpKdVeycE3kMqbU4jiDLL14N5PHzadovvxpaqD2hw=="],
 
@@ -301,17 +301,17 @@
 
     "@sinclair/typebox": ["@sinclair/typebox@0.27.12", "", {}, "sha512-hhyNJ+nbR6ZR7pToHvllEFun9TL0sbL+tk/ON75lo+Xas054uez98qRbsuNt7MBCyZKK4+8Yli/OAGZhmfBZ/g=="],
 
-    "@sudobility/components": ["@sudobility/components@5.3.41", "https://npm.pkg.github.com/download/@sudobility/components/5.3.41/a290db0b2749b1d1a958563eb504ee609c7c5188", { "optionalDependencies": { "@rollup/rollup-linux-x64-gnu": "4.52.5", "@rollup/rollup-linux-x64-musl": "4.52.5" }, "peerDependencies": { "@heroicons/react": ">=2.0.0", "@radix-ui/react-alert-dialog": ">=1.0.0", "@radix-ui/react-dialog": ">=1.0.0", "@radix-ui/react-label": ">=2.0.0", "@radix-ui/react-select": ">=2.0.0", "@radix-ui/react-slot": ">=1.0.0", "@radix-ui/react-switch": ">=1.0.0", "@radix-ui/react-tabs": ">=1.0.0", "@sudobility/design": "^1.1.66", "@sudobility/types": "^1.9.76", "class-variance-authority": ">=0.7.0", "clsx": ">=2.0.0", "i18next": ">=23.0.0", "react": ">=18.0.0", "react-dom": ">=18.0.0", "react-i18next": ">=14.0.0", "react-router-dom": ">=6.0.0", "tailwind-merge": ">=2.0.0", "web-vitals": ">=3.0.0" } }, "sha512-1DLUkz8fz0YwOoNeWfp2zI+HyZMq482xq2QIxT2LtsoSrPv6msnJIUaLbiKFKUyxspcAmXnS20PQtKvZa6RFKA=="],
+    "@sudobility/components": ["@sudobility/components@5.3.43", "https://npm.pkg.github.com/download/@sudobility/components/5.3.43/665e008d9b7a2fe02e351a3e68e38b2962f1dbfc", { "optionalDependencies": { "@rollup/rollup-linux-x64-gnu": "4.52.5", "@rollup/rollup-linux-x64-musl": "4.52.5" }, "peerDependencies": { "@heroicons/react": ">=2.0.0", "@radix-ui/react-alert-dialog": ">=1.0.0", "@radix-ui/react-dialog": ">=1.0.0", "@radix-ui/react-label": ">=2.0.0", "@radix-ui/react-select": ">=2.0.0", "@radix-ui/react-slot": ">=1.0.0", "@radix-ui/react-switch": ">=1.0.0", "@radix-ui/react-tabs": ">=1.0.0", "@sudobility/design": "^1.1.66", "@sudobility/types": "^1.9.76", "class-variance-authority": ">=0.7.0", "clsx": ">=2.0.0", "i18next": ">=23.0.0", "react": ">=18.0.0", "react-dom": ">=18.0.0", "react-i18next": ">=14.0.0", "react-router-dom": ">=6.0.0", "tailwind-merge": ">=2.0.0", "web-vitals": ">=3.0.0" } }, "sha512-EGsfs4OS6YjX/Ol98Mvd326LjBX0V1dK+nJDPcb7KEMzfKc65GYV2SPlUPp5X5z/Egg9ej9sZKOCqnrE5fY6ug=="],
 
     "@sudobility/design": ["@sudobility/design@1.1.66", "https://npm.pkg.github.com/download/@sudobility/design/1.1.66/08ff28eba0e05a9e6916a0aae67ac2c36df590f2", { "peerDependencies": { "clsx": ">=2.0.0", "tailwind-merge": ">=2.0.0" } }, "sha512-E+5HxPKHsujJQMYhtdgtzcGkGtaHhuWpMBd05n+dq/FMihrLT8GeMj6G75XpaxqQmbWYOfkjHEUV2GFcECzeNw=="],
 
-    "@sudobility/di": ["@sudobility/di@1.5.77", "https://npm.pkg.github.com/download/@sudobility/di/1.5.77/6b39975a9755834aa804ce8de32d310f0d08f04c", { "peerDependencies": { "@notifee/react-native": ">=7.0.0", "@react-native-async-storage/async-storage": ">=1.19.0", "@react-native-community/netinfo": ">=9.0.0", "@react-native-firebase/analytics": ">=18.0.0", "@react-native-firebase/app": ">=18.0.0", "@react-native-firebase/messaging": ">=18.0.0", "@sudobility/types": "^1.9.76", "firebase": ">=11.0.0", "react": ">=18.0.0", "react-native": ">=0.70.0" } }, "sha512-jlG+pmPgy/kOF3uwr3uNLxaCm8WoH/4XEAJoG308c1NOTleuLSiM3fUMwd3OUmULPmqqyXByGjnyuiw/VUhdQQ=="],
+    "@sudobility/di": ["@sudobility/di@1.5.79", "https://npm.pkg.github.com/download/@sudobility/di/1.5.79/1035c3304c3dc33d7b5b38b38ba6d6fe8c3dbd60", { "peerDependencies": { "@notifee/react-native": ">=7.0.0", "@react-native-async-storage/async-storage": ">=1.19.0", "@react-native-community/netinfo": ">=9.0.0", "@react-native-firebase/analytics": ">=18.0.0", "@react-native-firebase/app": ">=18.0.0", "@react-native-firebase/messaging": ">=18.0.0", "@sudobility/types": "^1.9.76", "firebase": ">=11.0.0", "react": ">=18.0.0", "react-native": ">=0.70.0" } }, "sha512-2y+YqxNN7lhrbtwKGPKemf/jOJ7RKj8Jm3+9cnSKtiaRf7M2MIEiXQCsF1pF2M6SerzwsUfFbYDVQkfl6qWbzA=="],
 
-    "@sudobility/sudojo_client": ["@sudobility/sudojo_client@0.0.171", "https://npm.pkg.github.com/download/@sudobility/sudojo_client/0.0.171/385249b7638a1186a770a37b7b41ec4980166aa1", { "peerDependencies": { "@sudobility/di": "^1.5.77", "@sudobility/sudojo_types": "^1.2.78", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-MerpkKRj00v/LKXV5PBPGCAig3fzqi8ufNLKv0e1NeI2s4CveXjuukJtUBgcmAiRnUKUmQ8lpxoUPDwch7nj7A=="],
+    "@sudobility/sudojo_client": ["@sudobility/sudojo_client@0.0.172", "https://npm.pkg.github.com/download/@sudobility/sudojo_client/0.0.172/722d82703cd0e1edeadebb458143daa845db0596", { "peerDependencies": { "@sudobility/di": "^1.5.79", "@sudobility/sudojo_types": "^1.2.79", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-eUJS9A5Pze33sTUAUCgRiyjl8X8o2PDww2+mLOjUJKsBRSgTKdQiqXkGGZHwa9f9+Otgp6Rm+OuLTo6a0/SV6Q=="],
 
-    "@sudobility/sudojo_lib": ["@sudobility/sudojo_lib@0.0.213", "https://npm.pkg.github.com/download/@sudobility/sudojo_lib/0.0.213/9bce603888467a635a512989f42d2b06868873c4", { "peerDependencies": { "@sudobility/di": "^1.5.77", "@sudobility/sudojo_client": "^0.0.171", "@sudobility/sudojo_types": "^1.2.78", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-TIUjyyNqTvjhzNPVK96bmowf8SzEc2DXh5d15800tsStFWPdak9MO1QozUGU60Dv8GHE2faoxwLpNp86X2Oc6g=="],
+    "@sudobility/sudojo_lib": ["@sudobility/sudojo_lib@0.0.214", "https://npm.pkg.github.com/download/@sudobility/sudojo_lib/0.0.214/b80bf5ce15c6faeb425feb40f727c9f4f064b4ea", { "peerDependencies": { "@sudobility/di": "^1.5.79", "@sudobility/sudojo_client": "^0.0.172", "@sudobility/sudojo_types": "^1.2.79", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-KKNRPZRcSMFPFY5Ewzfm9k657tNsf9MwFWWLA2HzhEjPgdGJHZmJC9md7FAvDOJTuJ7k+k2S2b5xxPzN2yNryA=="],
 
-    "@sudobility/sudojo_types": ["@sudobility/sudojo_types@1.2.78", "https://npm.pkg.github.com/download/@sudobility/sudojo_types/1.2.78/9dbe749c93994da9029b7f6d65ffcca2a4b1c28e", { "peerDependencies": { "@sudobility/types": "^1.9.76" } }, "sha512-uMyWyXhRc6Ms66HmxcWAj7LZT5WhvOPJKBLFyEwxSquDOvuFVXPPae3mCZ5o+c0JOX11WjOli4RHK7wuAgdKFw=="],
+    "@sudobility/sudojo_types": ["@sudobility/sudojo_types@1.2.79", "https://npm.pkg.github.com/download/@sudobility/sudojo_types/1.2.79/69c964c236525ab5d74a31f6aef5ff63037495a3", { "peerDependencies": { "@sudobility/types": "^1.9.76" } }, "sha512-k8x+kjxc0XHXpDxGhI3ab1g9YMTvL+SRlSEE2MbPehFzZnCzWW5bP8l6u8ys5V2HULzMq+IfzWQ4e0Rf9GoCGg=="],
 
     "@sudobility/types": ["@sudobility/types@1.9.76", "https://npm.pkg.github.com/download/@sudobility/types/1.9.76/71635156f72fd9461107d5f147b3dc1c49f863d0", {}, "sha512-b7maZHR5wM84VlQ+l9R+2guzSOrExog6OUNy1oCe7h0abW13syycmnLQL0g+qql0aQ84qTB4A0mJelhY3Vef4Q=="],
 

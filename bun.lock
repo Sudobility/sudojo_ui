@@ -6,22 +6,22 @@
       "name": "@sudobility/sudojo_ui",
       "devDependencies": {
         "@heroicons/react": "~2.2.0",
-        "@sudobility/components": "^5.3.44",
+        "@sudobility/components": "^5.3.45",
         "@sudobility/design": "^1.1.66",
-        "@sudobility/sudojo_lib": "^0.0.214",
+        "@sudobility/sudojo_lib": "^0.0.215",
         "@sudobility/sudojo_types": "^1.2.79",
         "@types/react": "~19.3.0",
         "@types/react-dom": "~19.3.0",
         "class-variance-authority": "~0.7.1",
         "react": "~19.3.1",
         "react-dom": "~19.3.1",
-        "typescript": "~5.9.3",
+        "typescript": "~6.0.3",
       },
       "peerDependencies": {
         "@heroicons/react": ">=2.0.0",
-        "@sudobility/components": "^5.3.44",
+        "@sudobility/components": "^5.3.45",
         "@sudobility/design": "^1.1.66",
-        "@sudobility/sudojo_lib": "^0.0.214",
+        "@sudobility/sudojo_lib": "^0.0.215",
         "@sudobility/sudojo_types": "^1.2.79",
         "react": ">=18.0.0",
         "react-dom": ">=18.0.0",
@@ -301,7 +301,7 @@
 
     "@sinclair/typebox": ["@sinclair/typebox@0.27.12", "", {}, "sha512-hhyNJ+nbR6ZR7pToHvllEFun9TL0sbL+tk/ON75lo+Xas054uez98qRbsuNt7MBCyZKK4+8Yli/OAGZhmfBZ/g=="],
 
-    "@sudobility/components": ["@sudobility/components@5.3.44", "https://npm.pkg.github.com/download/@sudobility/components/5.3.44/727019a8c3d2ed8799758df885545441ca36272f", { "optionalDependencies": { "@rollup/rollup-linux-x64-gnu": "4.52.5", "@rollup/rollup-linux-x64-musl": "4.52.5" }, "peerDependencies": { "@heroicons/react": ">=2.0.0", "@radix-ui/react-alert-dialog": ">=1.0.0", "@radix-ui/react-dialog": ">=1.0.0", "@radix-ui/react-label": ">=2.0.0", "@radix-ui/react-select": ">=2.0.0", "@radix-ui/react-slot": ">=1.0.0", "@radix-ui/react-switch": ">=1.0.0", "@radix-ui/react-tabs": ">=1.0.0", "@sudobility/design": "^1.1.66", "@sudobility/types": "^1.9.76", "class-variance-authority": ">=0.7.0", "clsx": ">=2.0.0", "i18next": ">=23.0.0", "react": ">=18.0.0", "react-dom": ">=18.0.0", "react-i18next": ">=14.0.0", "react-router-dom": ">=6.0.0", "tailwind-merge": ">=2.0.0", "web-vitals": ">=3.0.0" } }, "sha512-EAgL/KDaw3IwFWIq6ZU1STuGOHad+obCCfxzT+IpPz8nWvtcG2wttxgNWEFbZ5WCVwYqgwF0FQDtkOyDaalf7w=="],
+    "@sudobility/components": ["@sudobility/components@5.3.45", "https://npm.pkg.github.com/download/@sudobility/components/5.3.45/668f5291843e3e1ffe5c689d9e051f5cf2272b64", { "optionalDependencies": { "@rollup/rollup-linux-x64-gnu": "4.52.5", "@rollup/rollup-linux-x64-musl": "4.52.5" }, "peerDependencies": { "@heroicons/react": ">=2.0.0", "@radix-ui/react-alert-dialog": ">=1.0.0", "@radix-ui/react-dialog": ">=1.0.0", "@radix-ui/react-label": ">=2.0.0", "@radix-ui/react-select": ">=2.0.0", "@radix-ui/react-slot": ">=1.0.0", "@radix-ui/react-switch": ">=1.0.0", "@radix-ui/react-tabs": ">=1.0.0", "@sudobility/design": "^1.1.66", "@sudobility/types": "^1.9.76", "class-variance-authority": ">=0.7.0", "clsx": ">=2.0.0", "i18next": ">=23.0.0", "react": ">=18.0.0", "react-dom": ">=18.0.0", "react-i18next": ">=14.0.0", "react-router-dom": ">=6.0.0", "tailwind-merge": ">=2.0.0", "web-vitals": ">=3.0.0" } }, "sha512-oFF90a4h4DJQvkmq+c6e1pniP+wr+5GGuDcz+fCx1/5a3dVAMnGnFizfLb9eW3f6i+8gfz+n854I1DgTZAOJXQ=="],
 
     "@sudobility/design": ["@sudobility/design@1.1.66", "https://npm.pkg.github.com/download/@sudobility/design/1.1.66/08ff28eba0e05a9e6916a0aae67ac2c36df590f2", { "peerDependencies": { "clsx": ">=2.0.0", "tailwind-merge": ">=2.0.0" } }, "sha512-E+5HxPKHsujJQMYhtdgtzcGkGtaHhuWpMBd05n+dq/FMihrLT8GeMj6G75XpaxqQmbWYOfkjHEUV2GFcECzeNw=="],
 
@@ -309,7 +309,7 @@
 
     "@sudobility/sudojo_client": ["@sudobility/sudojo_client@0.0.172", "https://npm.pkg.github.com/download/@sudobility/sudojo_client/0.0.172/722d82703cd0e1edeadebb458143daa845db0596", { "peerDependencies": { "@sudobility/di": "^1.5.79", "@sudobility/sudojo_types": "^1.2.79", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-eUJS9A5Pze33sTUAUCgRiyjl8X8o2PDww2+mLOjUJKsBRSgTKdQiqXkGGZHwa9f9+Otgp6Rm+OuLTo6a0/SV6Q=="],
 
-    "@sudobility/sudojo_lib": ["@sudobility/sudojo_lib@0.0.214", "https://npm.pkg.github.com/download/@sudobility/sudojo_lib/0.0.214/b80bf5ce15c6faeb425feb40f727c9f4f064b4ea", { "peerDependencies": { "@sudobility/di": "^1.5.79", "@sudobility/sudojo_client": "^0.0.172", "@sudobility/sudojo_types": "^1.2.79", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-KKNRPZRcSMFPFY5Ewzfm9k657tNsf9MwFWWLA2HzhEjPgdGJHZmJC9md7FAvDOJTuJ7k+k2S2b5xxPzN2yNryA=="],
+    "@sudobility/sudojo_lib": ["@sudobility/sudojo_lib@0.0.215", "https://npm.pkg.github.com/download/@sudobility/sudojo_lib/0.0.215/6a3931d4a2cfe9a72cb6b536a25c284f189ba4a8", { "peerDependencies": { "@sudobility/di": "^1.5.81", "@sudobility/sudojo_client": "^0.0.173", "@sudobility/sudojo_types": "^1.2.79", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-I8e57+dYTfJlDevK9XcV7ry38kYOIeQ/Aw/Jb+Pd+gm+1IQIDcuoREDqiJyOrsp5jk17JTIzRR71er8YNskxzA=="],
 
     "@sudobility/sudojo_types": ["@sudobility/sudojo_types@1.2.79", "https://npm.pkg.github.com/download/@sudobility/sudojo_types/1.2.79/69c964c236525ab5d74a31f6aef5ff63037495a3", { "peerDependencies": { "@sudobility/types": "^1.9.76" } }, "sha512-k8x+kjxc0XHXpDxGhI3ab1g9YMTvL+SRlSEE2MbPehFzZnCzWW5bP8l6u8ys5V2HULzMq+IfzWQ4e0Rf9GoCGg=="],
 
@@ -669,7 +669,7 @@
 
     "type-fest": ["type-fest@0.7.1", "", {}, "sha512-Ne2YiiGN8bmrmJJEuTWTLJR32nh/JdL1+PSicowtNb0WFpn59GK8/lfD61bVtzguz7b3PBt74nxpv/Pw5po5Rg=="],
 
-    "typescript": ["typescript@5.9.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw=="],
+    "typescript": ["typescript@6.0.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-y2TvuxSZPDyQakkFRPZHKFm+KKVqIisdg9/CZwm9ftvKXLP8NRWj38/ODjNbr43SsoXqNuAisEf1GdCxqWcdBw=="],
 
     "undici-types": ["undici-types@8.9.0", "", {}, "sha512-KTDyRTYX8sWmKXAikPHHSyc63CRPETMctyjKFupcC6OBLXT3xsN0e9aF7m+mIXutFWpUXuedtowG7iLOzp0kQg=="],
 

@@ -8,7 +8,7 @@
         "@heroicons/react": "~2.2.0",
         "@sudobility/components": "^5.3.45",
         "@sudobility/design": "^1.1.66",
-        "@sudobility/sudojo_lib": "^0.0.215",
+        "@sudobility/sudojo_lib": "^0.0.216",
         "@sudobility/sudojo_types": "^1.2.79",
         "@types/react": "~19.3.0",
         "@types/react-dom": "~19.3.0",
@@ -21,7 +21,7 @@
         "@heroicons/react": ">=2.0.0",
         "@sudobility/components": "^5.3.45",
         "@sudobility/design": "^1.1.66",
-        "@sudobility/sudojo_lib": "^0.0.215",
+        "@sudobility/sudojo_lib": "^0.0.216",
         "@sudobility/sudojo_types": "^1.2.79",
         "react": ">=18.0.0",
         "react-dom": ">=18.0.0",
@@ -309,7 +309,7 @@
 
     "@sudobility/sudojo_client": ["@sudobility/sudojo_client@0.0.172", "https://npm.pkg.github.com/download/@sudobility/sudojo_client/0.0.172/722d82703cd0e1edeadebb458143daa845db0596", { "peerDependencies": { "@sudobility/di": "^1.5.79", "@sudobility/sudojo_types": "^1.2.79", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-eUJS9A5Pze33sTUAUCgRiyjl8X8o2PDww2+mLOjUJKsBRSgTKdQiqXkGGZHwa9f9+Otgp6Rm+OuLTo6a0/SV6Q=="],
 
-    "@sudobility/sudojo_lib": ["@sudobility/sudojo_lib@0.0.215", "https://npm.pkg.github.com/download/@sudobility/sudojo_lib/0.0.215/6a3931d4a2cfe9a72cb6b536a25c284f189ba4a8", { "peerDependencies": { "@sudobility/di": "^1.5.81", "@sudobility/sudojo_client": "^0.0.173", "@sudobility/sudojo_types": "^1.2.79", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-I8e57+dYTfJlDevK9XcV7ry38kYOIeQ/Aw/Jb+Pd+gm+1IQIDcuoREDqiJyOrsp5jk17JTIzRR71er8YNskxzA=="],
+    "@sudobility/sudojo_lib": ["@sudobility/sudojo_lib@0.0.216", "https://npm.pkg.github.com/download/@sudobility/sudojo_lib/0.0.216/861563fb101a3be1d25f44854a780abf69030e82", { "peerDependencies": { "@sudobility/di": "^1.5.81", "@sudobility/sudojo_client": "^0.0.174", "@sudobility/sudojo_types": "^1.2.79", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-Gusyxr6WS7dMjYk/fWX8Oyj0STj+6FbjtOXQ2OuOqiu5boXs5MM0X+OF4ogeQ7YMtnLUHzVPSy16jhuKzLZ3zA=="],
 
     "@sudobility/sudojo_types": ["@sudobility/sudojo_types@1.2.79", "https://npm.pkg.github.com/download/@sudobility/sudojo_types/1.2.79/69c964c236525ab5d74a31f6aef5ff63037495a3", { "peerDependencies": { "@sudobility/types": "^1.9.76" } }, "sha512-k8x+kjxc0XHXpDxGhI3ab1g9YMTvL+SRlSEE2MbPehFzZnCzWW5bP8l6u8ys5V2HULzMq+IfzWQ4e0Rf9GoCGg=="],
 

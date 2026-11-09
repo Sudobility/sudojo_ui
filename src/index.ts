@@ -37,3 +37,8 @@ export {
 
 // Game orchestrator
 export { default as SudokuGame, type SudokuGameProps } from './components/SudokuGame';
+
+// Navigation contract (shared with @sudobility/sudojo_ui_rn)
+// The Navigator context is owned here so shared UI navigates by route name;
+// the app supplies the concrete react-router adapter and mounts the provider.
+export { NavigatorProvider, useNavigator } from './navigation/navigator';
